@@ -35,10 +35,10 @@ my projects and work, you are welcome to request access using the button below.
 `NGS tools` `scanpy` 
 
 **Concepts**
-`Transcriptomics` `Statistics for Bioinformatics` `Data Visualization` `Workflow Management` `Machine learning`
+`Transcriptomics` `Data Visualization` `Workflow Management` `Machine learning`
 
 **Developer Tools**
-`Git` `PyCharm` `VS Code` `Jupyter Notebook`
+`Git` `PyCharm` `VS Code` `Jupyter Notebook` `Streamlit`
 
 ---
 
