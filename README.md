@@ -6,8 +6,8 @@ Welcome to my GitHub profile. Thank you for visiting!
 
 I am a graduate student specializing in Bioinformatics, with a strong interest
 in bridging machine learning and biological data analysis. My work spans
-transcriptomics, single-cell analysis, and the development of data-driven
-approaches to uncover meaningful patterns in complex biological datasets.
+end-to-end RNA-seq pipelines, single-cell RNA-seq analysis, and the development of data-driven
+approaches to uncover and identify meaningful patterns in complex biological datasets.
 
 My repositories are currently set to private. If you would like to review
 my projects and work, you are welcome to request access using the button below.
@@ -26,16 +26,16 @@ my projects and work, you are welcome to request access using the button below.
 ## 🛠️ Skills
 
 **Programming Languages**
-`Python` `R` `Shell/Bash` `SQL`
+`Python` `R` `Shell/Bash`
 
 **Machine Learning & Deep Learning**
 `PyTorch` `TensorFlow` `Scikit-learn`
 
 **Bioinformatics Tools**
-`FastQC` `STAR` `SAMtools` `DESeq2` `WGCNA` `Seurat` `Scanpy` `Nextflow` `RankProd` `tidyverse`
+`NGS tools` `scanpy` 
 
 **Concepts**
-`RNA-seq` `Transcriptomics` `Statistics for Bioinformatics` `Data Visualization` `Workflow Management`
+`Transcriptomics` `Statistics for Bioinformatics` `Data Visualization` `Workflow Management` `Machine learning`
 
 **Developer Tools**
 `Git` `PyCharm` `VS Code` `Jupyter Notebook`
